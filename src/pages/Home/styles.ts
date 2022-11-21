@@ -118,6 +118,7 @@ export const InputSearch = styled.input`
   background: ${props => props.theme['base-input']};
   border: 1px solid ${props => props.theme['base-border']};
   border-radius: 6px;
+  color: ${props => props.theme['white']};
 
   ::placeholder {
     color: ${props => props.theme['base-label']};
@@ -128,5 +129,5 @@ export const PostsContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
-  margin-top: 3rem;
+  margin: 3rem 0rem;
 `

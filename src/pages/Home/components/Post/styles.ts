@@ -6,6 +6,7 @@ export const PostContainer = styled.div`
 
   border-radius: 10px;
   padding: 2rem;
+  cursor: pointer;
 
   background: ${props => props.theme['base-post']};
 
