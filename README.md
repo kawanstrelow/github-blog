@@ -24,7 +24,6 @@ To use <Github Blog>, fallow these steps:
 ```
 1. Enter the link that was showed in your terminal, ex: http://127.0.0.1:5173/
 2. Click in the posts showed to open more detailed.
-3. 
 ```
 
 <img src="https://kawan-demo-s3.s3.eu-west-1.amazonaws.com/imgtogithub2.png" alt="Post detailed">
